@@ -28,3 +28,8 @@ Arduino-based embedded system for real-time battery voltage and temperature moni
 * EV battery monitoring
 * Battery health analysis
 * Embedded monitoring systems
+
+  ## Project Diagram
+
+![Circuit Diagram](circuit-diagram.png)
+
